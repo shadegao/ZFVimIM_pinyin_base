@@ -6,7 +6,9 @@ ban 1
 bang 1
 bu 2
 bucuoma 2
+cheng 1
 cuo 2
+chengshu 1
 d 3
 fa 2
 gan 1 1
@@ -19,7 +21,7 @@ kao 2
 ke 1
 ku 1
 kad 1
-kaolv 2
+kaolv 3
 lv 1 1
 ma 1 1
 nei 1
@@ -29,7 +31,7 @@ ru 2
 shao 1
 shen 1
 sheng 1
-shu 2
+shu 2 1
 wen 1
 yi 1
 zhe 1
