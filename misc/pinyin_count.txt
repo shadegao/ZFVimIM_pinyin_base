@@ -1,0 +1,38 @@
+a 2
+an 1
+aa 1
+ba 1
+ban 1
+bang 1
+bu 2
+bucuoma 2
+cuo 2
+d 3
+fa 2
+gan 1 1
+hen 1
+hou 2 1
+houhoujiangban 1
+jiang 2
+ka 1
+kao 2
+ke 1
+ku 1
+kad 1
+kaolv 2
+lv 1 1
+ma 1 1
+nei 1
+quan 1
+rong 1
+ru 2
+shao 1
+shen 1
+sheng 1
+shu 2
+wen 1
+yi 1
+zhe 1
+zhong 1 1
+zi 1
+zhezhong 2
